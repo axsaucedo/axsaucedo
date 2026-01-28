@@ -1,17 +1,11 @@
 # Hi, I'm Alejandro 👋
 
+> Director of Tech at [Zalando](https://corporate.zalando.com/en/about-us/who-we-are) | Chief Scientist at [the Institute for Ethical AI](https://ethical.institute/) | Board Member at [ACM](https://www.acm.org/) | AI Expert at [the United Nations](https://www.un.org/en/) & the [European Commission](https://commission.europa.eu/index_en)
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/axsaucedo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/axsaucedo)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-cd201f?style=flat-square&logo=Youtube&logoColor=white)]([https://ethical.institute/](https://www.youtube.com/playlist?list=PL7F3ZwS1Ae8UJIbFB_yBFUSe3cNtpZObi))
 [![Website Badge](https://img.shields.io/badge/-Website-e4405f?style=flat-square&logo=Website&logoColor=white)](https://ethical.institute/)
-
-## Current Appointments
-
-* Director of AI, Data & Platform at [Zalando](https://corporate.zalando.com/en/about-us/who-we-are)
-* Chief Scientist at [the Institute for Ethical AI](https://ethical.institute/)
-* Board Member at [the Association for Computing Machinery (ACM)](https://www.acm.org/)
-* AI Expert at [the United Nations](https://www.un.org/en/)
-* Tech Policy at the [European Commission](https://commission.europa.eu/index_en)
 
 # Projects
 
