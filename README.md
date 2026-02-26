@@ -4,7 +4,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/axsaucedo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/axsaucedo)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-cd201f?style=flat-square&logo=Youtube&logoColor=white)]([https://ethical.institute/](https://www.youtube.com/playlist?list=PL7F3ZwS1Ae8UJIbFB_yBFUSe3cNtpZObi))
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-cd201f?style=flat-square&logo=Youtube&logoColor=white)][https://ethical.institute/](https://www.youtube.com/playlist?list=PL7F3ZwS1Ae8UJIbFB_yBFUSe3cNtpZObi))
 [![Website Badge](https://img.shields.io/badge/-Website-e4405f?style=flat-square&logo=Website&logoColor=white)](https://ethical.institute/)
 
 # Projects
