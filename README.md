@@ -18,6 +18,7 @@
 * [AI Policy List](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) ![](https://img.shields.io/github/stars/EthicalML/awesome-artificial-intelligence-regulation.svg?cacheSeconds=86400) -  Mapping the ecosystem of AI guidelines, principles, standards, regulation, etc
 * [Vulkan Kompute](https://github.com/KomputeProject/kompute) ![](https://img.shields.io/github/stars/KomputeProject/kompute.svg?cacheSeconds=86400) - General Purpose GPU Acceleration Framework on the Vulkan SDK (compatible with 1000+ GPUs) - part of Linux Foundation 
 * [Agent DuckDB Plugin](https://github.com/axsaucedo/agent_data_duckdb) ![](https://img.shields.io/github/stars/axsaucedo/agent_data_duckdb.svg?cacheSeconds=86400) - DuckDB plugin for Claude/Copilot data to query, search and explain your agent sessions.
+* [NeoVIM Power Mode Plugin](https://github.com/axsaucedo/neovim-power-mode) ![](https://img.shields.io/github/stars/axsaucedo/neovim-power-mode.svg?cacheSeconds=86400) - Power Mode / Chaos Mode style animations for your neovim (because why not?)
 
 ## Spotlight - Former Author / Maintainer
 
