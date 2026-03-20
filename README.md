@@ -19,6 +19,7 @@
 * [Vulkan Kompute](https://github.com/KomputeProject/kompute) ![](https://img.shields.io/github/stars/KomputeProject/kompute.svg?cacheSeconds=86400) - General Purpose GPU Acceleration Framework on the Vulkan SDK (compatible with 1000+ GPUs) - part of Linux Foundation 
 * [Agent DuckDB Plugin](https://github.com/axsaucedo/agent_data_duckdb) ![](https://img.shields.io/github/stars/axsaucedo/agent_data_duckdb.svg?cacheSeconds=86400) - DuckDB plugin for Claude/Copilot data to query, search and explain your agent sessions.
 * [NeoVIM Power Mode Plugin](https://github.com/axsaucedo/neovim-power-mode) ![](https://img.shields.io/github/stars/axsaucedo/neovim-power-mode.svg?cacheSeconds=10) - Power Mode / Chaos Mode style animations for your neovim (because why not?)
+* [Pydantic AI Server](https://github.com/axsaucedo/pydantic-ai-server) ![](https://img.shields.io/github/stars/axsaucedo/pydantic-ai-server.svg?cacheSeconds=86400) - Pydantic AI Server with support for A2A, autonomous runs, async execution, completions API, opentracing and kubernetes scaling.
 
 ## Spotlight - Former Author / Maintainer
 
