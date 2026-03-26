@@ -35,4 +35,4 @@
 * [make.py](https://github.com/axsaucedo/make.py) - Makefile interface in python to create and manage your scripts through a simple make-like orchestration in python
 * [AgenticScript](https://github.com/axsaucedo/agenticscript) - Attempt to build a programming language where everything is an agent
 * [Firefox Summarisation Extension](https://github.com/axsaucedo/firefox-extension-llm-summary) - Simple firefox extension that summarises the content on a website using local LLM proxy
-* [Neovim Power Mode Plugin](https://github.com/axsaucedo/neovim-power-mode) - Visual Studio Power Mode implemented for Neovim; works impressively better than expected.
+* [ASCIINova](https://github.com/axsaucedo/asciinova) - ASCII Banner generator with TUI visualiser
