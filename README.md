@@ -13,7 +13,7 @@
 
 ## Spotlight - Active Author / Maintainer
 
-* [KAOS](https://github.com/axsaucedo/kaos) ![](https://img.shields.io/github/stars/axsaucedo/kaos.svg?cacheSeconds=86400) - Kubernetes Agent Orchestration System
+* [KAOS](https://github.com/axsaucedo/kaos) ![](https://img.shields.io/github/stars/axsaucedo/kaos.svg?cacheSeconds=86400) - K8s Agent Orchestration System: Managing the KAOS in your large-scale distributed multi-agent systems
 * [Prod ML List](https://github.com/EthicalML/awesome-production-machine-learning) ![](https://img.shields.io/github/stars/EthicalML/awesome-production-machine-learning.svg?cacheSeconds=86400) -  Curated list of frameworks for production ML
 * [AI Policy List](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) ![](https://img.shields.io/github/stars/EthicalML/awesome-artificial-intelligence-regulation.svg?cacheSeconds=86400) -  Mapping the ecosystem of AI guidelines, principles, standards, regulation, etc
 * [Vulkan Kompute](https://github.com/KomputeProject/kompute) ![](https://img.shields.io/github/stars/KomputeProject/kompute.svg?cacheSeconds=86400) - General Purpose GPU Acceleration Framework on the Vulkan SDK (compatible with 1000+ GPUs) - part of Linux Foundation 
